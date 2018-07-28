@@ -1,4 +1,13 @@
-# PhpBB Extension - marttiphpbb Template Events
+# phpBB Extension - marttiphpbb Template Events
+
+## This extension has been renamed
+
+This repository is not maintained anymore.
+
+Please use now the [Show phpBB Events extension](https://github.com/marttiphpbb/phpbb-ext-showphpbbevents)
+
+
+## Description
 
 This phpBB extension for developers shows all core template events at their location in the board. Also the core PHP events that were triggered for the current request are shown at the bottom of the page. All template and PHP events are linked to their location in the [phpBB/phpBB github repository](https://github.com/phpbb/phpbb) so their context can be easily reviewed.
 
